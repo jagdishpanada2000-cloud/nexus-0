@@ -1,0 +1,12 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "main": "generateThumbnail.js",
+    "dependencies": {
+      "fluent-ffmpeg": "^2.1.2",
+      "formidable": "^2.2.3",
+      "axios": "^1.7.0",
+      "dotenv": "^16.0.3"
+    }
+  }
+  
